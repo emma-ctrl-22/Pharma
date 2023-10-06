@@ -1,10 +1,10 @@
+*{
+  background-color: #0d0d0d;
+}*
 .App {
-  text-align: center;
-}
-
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+ 
+  height: 102vh;
+  margin-top: -2%;
 }
 
 @media (prefers-reduced-motion: no-preference) {
@@ -19,7 +19,7 @@
   display: flex;
   flex-direction: column;
   align-items: center;
-  justify-content: center;
+  
   font-size: calc(10px + 2vmin);
   color: white;
 }
